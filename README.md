@@ -1,0 +1,3 @@
+- Basit bir kütüphane uygulaması.
+- Fonkisyon ve döngüleri anlamak açısından oldukça açık bir kod.
+- Herhangi bir python kütüphanesine gerek yoktur.
